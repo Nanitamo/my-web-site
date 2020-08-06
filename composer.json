@@ -1,0 +1,16 @@
+{
+  "description": "BugSolutions web-site",
+  "authors": [
+    {
+      "name": "Nanitamo António",
+      "email": "nanitamo19@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app",
+      "Core\\": "core"
+    }
+  },
+  "require": {}
+}
